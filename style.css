@@ -152,9 +152,16 @@ h1 {
     font-size: 70px;
   }
 
-  .app-images {
-    width: 350px;
+  .yogurt-image {
+    width: 406px;
     display: block;
-    margin: auto;
+    margin: 0px;
+    position: relative;
+    left: -36px;
   }
 
+  .yogurt-decs {
+    position: relative;
+    left: -36px;
+  }
+}
